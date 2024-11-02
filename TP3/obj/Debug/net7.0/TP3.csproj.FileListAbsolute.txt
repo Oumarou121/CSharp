@@ -1,0 +1,14 @@
+/home/oumarou/Documents/C#/TP3/bin/Debug/net7.0/TP3
+/home/oumarou/Documents/C#/TP3/bin/Debug/net7.0/TP3.deps.json
+/home/oumarou/Documents/C#/TP3/bin/Debug/net7.0/TP3.runtimeconfig.json
+/home/oumarou/Documents/C#/TP3/bin/Debug/net7.0/TP3.dll
+/home/oumarou/Documents/C#/TP3/bin/Debug/net7.0/TP3.pdb
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.GeneratedMSBuildEditorConfig.editorconfig
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.AssemblyInfoInputs.cache
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.AssemblyInfo.cs
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.csproj.CoreCompileInputs.cache
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.dll
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/refint/TP3.dll
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.pdb
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/TP3.genruntimeconfig.cache
+/home/oumarou/Documents/C#/TP3/obj/Debug/net7.0/ref/TP3.dll

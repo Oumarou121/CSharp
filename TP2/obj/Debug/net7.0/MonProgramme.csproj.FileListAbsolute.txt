@@ -1,0 +1,14 @@
+/home/oumarou/Documents/C#/MonProgramme/bin/Debug/net7.0/MonProgramme
+/home/oumarou/Documents/C#/MonProgramme/bin/Debug/net7.0/MonProgramme.deps.json
+/home/oumarou/Documents/C#/MonProgramme/bin/Debug/net7.0/MonProgramme.runtimeconfig.json
+/home/oumarou/Documents/C#/MonProgramme/bin/Debug/net7.0/MonProgramme.dll
+/home/oumarou/Documents/C#/MonProgramme/bin/Debug/net7.0/MonProgramme.pdb
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.GeneratedMSBuildEditorConfig.editorconfig
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.AssemblyInfoInputs.cache
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.AssemblyInfo.cs
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.csproj.CoreCompileInputs.cache
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.dll
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/refint/MonProgramme.dll
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.pdb
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/MonProgramme.genruntimeconfig.cache
+/home/oumarou/Documents/C#/MonProgramme/obj/Debug/net7.0/ref/MonProgramme.dll
